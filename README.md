@@ -1,3 +1,3 @@
 # first-hub
 understanding github<br>
-Author - Alish
+Author - Alish sahdev
